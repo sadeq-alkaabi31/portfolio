@@ -2,7 +2,7 @@
 # Sign in with GitHub. Every save becomes a commit, and Netlify republishes the site.
 backend:
   name: github
-  repo: t5v3c1fqioq-star/portfolio
+  repo: sadeq-alkaabi31/portfolio
   branch: main
 media_folder: media/uploads
 public_folder: /media/uploads

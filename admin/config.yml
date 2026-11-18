@@ -1,13 +1,14 @@
 # Portfolio editor (Sveltia CMS, Decap-compatible).
-# Sign in with GitHub. Every save becomes a commit, and Netlify republishes the site.
+# Sign in with GitHub. Every save becomes a commit, and GitHub Pages republishes the site.
 backend:
   name: github
   repo: sadeq-alkaabi31/portfolio
   branch: main
+  site_domain: sadeq-alkaabi.netlify.app
 media_folder: media/uploads
-public_folder: /media/uploads
-site_url: https://sadeq-alkaabi.netlify.app
-display_url: https://sadeq-alkaabi.netlify.app
+public_folder: media/uploads
+site_url: https://sadeq-alkaabi31.github.io/portfolio
+display_url: https://sadeq-alkaabi31.github.io/portfolio
 locale: en
 
 collections:

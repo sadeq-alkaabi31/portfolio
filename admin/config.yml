@@ -59,7 +59,7 @@ collections:
               - {name: titleAr, label: Title (AR), widget: string}
               - {name: client, label: Client, widget: string}
               - {name: clientAr, label: Client (AR), widget: string, required: false}
-              - {name: cat, label: Section ID (cinema, ai, tvc, corporate, realestate, boulevard, brands = social media, ocean, events), widget: string}
+              - {name: cat, label: Section ID (cinema, ai, tvc, corporate, amwaj, boulevard, brands = social media, ocean, events), widget: string}
               - {name: orient, label: Orientation, widget: select, options: [{label: Vertical, value: v}, {label: Horizontal, value: h}]}
               - {name: note, label: Short note (EN), widget: string, required: false}
               - {name: noteAr, label: Short note (AR), widget: string, required: false}

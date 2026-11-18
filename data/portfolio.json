@@ -32,13 +32,6 @@
    "descAr": "إعلانات تلفزيونية لشركات تطوير عقاري وصحة وتجزئة."
   },
   {
-   "id": "corporate",
-   "en": "Corporate films",
-   "ar": "أفلام مؤسسية",
-   "desc": "Long-form corporate and explainer films for tech, telecom and infrastructure companies.",
-   "descAr": "أفلام مؤسسية وتوضيحية طويلة لشركات التقنية والاتصالات والبنية التحتية."
-  },
-  {
    "id": "amwaj",
    "en": "AMWAJ International",
    "ar": "أمواج الدولية",
@@ -1070,7 +1063,7 @@
    "title": "Backbone of Iraq",
    "titleAr": "العمود الفقري للعراق",
    "client": "T964",
-   "cat": "corporate",
+   "cat": "events",
    "orient": "h",
    "note": "Corporate film · data centers & fiber with Optera, Elite Technologies, DNA · 7:37",
    "video": "media/n-backbone.mp4",
@@ -1083,7 +1076,7 @@
    "title": "Infrastructure for the Future",
    "titleAr": "بنية تحتية للمستقبل",
    "client": "T964 Data Center",
-   "cat": "corporate",
+   "cat": "events",
    "orient": "h",
    "note": "Corporate film · data-center platform · 5:59",
    "video": "media/n-datacenter.mp4",
@@ -1096,7 +1089,7 @@
    "title": "World Link Corridor",
    "titleAr": "ممر ورلد لينك",
    "client": "World Link",
-   "cat": "corporate",
+   "cat": "events",
    "orient": "h",
    "note": "Explainer film · the terrestrial data corridor through Iraq · 3:04",
    "video": "media/n-worldlink.mp4",

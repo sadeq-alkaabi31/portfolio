@@ -916,19 +916,6 @@
    "clientAr": "ماديرا ديكور"
   },
   {
-   "id": "build",
-   "title": "Al-Qimma Construction",
-   "titleAr": "القمة للبناء",
-   "client": "Al-Qimma",
-   "cat": "brands",
-   "orient": "v",
-   "note": "Renders vs. site progress",
-   "video": "media/build.mp4",
-   "poster": "media/th-build.jpg",
-   "noteAr": "الرندر مقابل تقدم العمل بالموقع",
-   "clientAr": "القمة"
-  },
-  {
    "id": "led",
    "title": "Expert Talks",
    "titleAr": "لقاءات الخبراء",

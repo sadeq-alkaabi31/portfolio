@@ -25,13 +25,6 @@
    "descAr": "أفلام قصيرة كتبتها وأخرجتها، وأفلام اشتغلت بيها ضمن الفريق."
   },
   {
-   "id": "ai",
-   "en": "AI films",
-   "ar": "أفلام بالذكاء الاصطناعي",
-   "desc": "AI-assisted cinematic concepts: one idea, carried all the way through.",
-   "descAr": "أفكار سينمائية بمساعدة الذكاء الاصطناعي: فكرة وحدة من البداية للنهاية."
-  },
-  {
    "id": "tvc",
    "en": "TV commercials",
    "ar": "إعلانات تلفزيونية",
@@ -787,7 +780,7 @@
    "title": "Autumn Journey",
    "titleAr": "رحلة الخريف",
    "client": "Baghdad Boulevard",
-   "cat": "ai",
+   "cat": "boulevard",
    "orient": "v",
    "note": "AI concept · one leaf through the whole mall",
    "video": "media/leaf.mp4",
@@ -801,7 +794,7 @@
    "title": "Back in Time",
    "titleAr": "رجعة للزمن الجميل",
    "client": "Baghdad Boulevard",
-   "cat": "ai",
+   "cat": "boulevard",
    "orient": "v",
    "note": "AI concept · retro character in modern shops",
    "video": "media/retro.mp4",
@@ -815,7 +808,7 @@
    "title": "Neon Signals",
    "titleAr": "إشارات النيون",
    "client": "Baghdad Boulevard",
-   "cat": "ai",
+   "cat": "boulevard",
    "orient": "v",
    "note": "3D / AI · services as traffic-light icons",
    "video": "media/neon.mp4",
